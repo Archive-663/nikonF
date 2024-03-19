@@ -32,7 +32,7 @@ Drill holes to their correct tap size before tapping.
 - M1.6 requires M1.4 bore followed by an M1.6 tap.
 - M1.8 or M2 bore for screw holes that aren't tapped.
 - The hinges are simply lengths of filament with the ends hot rivited down. I use a lighter to set the filament on fire and a bronze punch to hot rivit the end. Do on both sides to lock the hinge in place.
-- For the lower baffle you will need to file the hot rivited head down so the upper baffle close properly. 
+- For the lower baffle you will need to file the hot rivited head down so the upper baffle will close properly. 
 
 Test fit before assembling. Will need to file parts to allow free movement. Depending on your printer you'll have to file down the baffles for them to open and close freely
 
