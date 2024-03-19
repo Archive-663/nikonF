@@ -3,6 +3,11 @@
 ![productPhoto001](https://github.com/Archive-663/nikonF/blob/main/ASSETS/PHOTO/PRODUCT/nikonF_viewfinders%20(1).jpg)
 ![productPhoto002](https://github.com/Archive-663/nikonF/blob/main/ASSETS/PHOTO/PRODUCT/nikonF_viewfinders%20(6).jpg)
 
+### Features:
+- Customizeable Eye Level Finder using whatever spare prism and prism lens you have laying around. Will need CAD software to modify the template to fit your prism combo.
+- Simple Waist Level Finder.
+- Minimal hardware for assembly.
+
 ### In this repository:
 - [Eye Level Finder](https://github.com/Archive-663/nikonF/tree/main/viewFinders/eyeLevelFinder)
 - [Waist Level Finder](https://github.com/Archive-663/nikonF/tree/main/viewFinders/waistLevelFinder)
