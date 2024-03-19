@@ -4,8 +4,8 @@
 ![productPhoto002](https://github.com/Archive-663/nikonF/blob/main/ASSETS/PHOTO/PRODUCT/nikonF_viewfinders%20(6).jpg)
 
 ### In this repository:
-- [Eye Level Finder](https://github.com/Archive-663/nikonF/tree/main/eyeLevelFinder)
-- [Waist Level Finder](https://github.com/Archive-663/nikonF/tree/main/waistLevelFinder)
+- [Eye Level Finder](https://github.com/Archive-663/nikonF/tree/main/viewFinders/eyeLevelFinder)
+- [Waist Level Finder](https://github.com/Archive-663/nikonF/tree/main/viewFinders/waistLevelFinder)
 
 ### Accompanying video:
 <a href='https://youtu.be/oAtRqYk0Bp8' target='_blank'>005 / / the one where i learn to be comfortable in the shadows</a>
