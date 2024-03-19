@@ -18,6 +18,8 @@
 ### Background Story:
 I picked up a Nikon F, FTN finder, and a Nikkor 55mm f1.2 to make a NASA Nikon F. While that particular project is on the backburner, I wanted to shoot the Nikon F with something that wasn't so obtrusively large. I had a broken Canon FTb and figured I could probably use the prism for a DIY viewfinder on my Nikon F. Along with the eye level finder I wanted the cool hipster waist level finder so I could be cool too. For the WLF I picked up the official WLF so I had a point of reference to build on.
 
+The waist level finder was designed with reliability in mind. I tried multiple designs for a compact 3d printed torsion spring but couldn't figure one out with the assembly I had already. I believe having a manual operation for opening and closing the waist level finder will lead to a longer lasting Waist Level Finder. 
+
 ### Samples:
 ![samplePhoto001](https://github.com/Archive-663/nikonF/blob/main/ASSETS/PHOTO/SAMPLE/nikonF_viewFinders_sample%20(22).jpg)
 ![samplePhoto002](https://github.com/Archive-663/nikonF/blob/main/ASSETS/PHOTO/SAMPLE/nikonF_viewFinders_sample%20(31).jpg)
