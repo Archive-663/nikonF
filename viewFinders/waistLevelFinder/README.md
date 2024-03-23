@@ -31,6 +31,7 @@ Generally, all my designs have chamfers on the print face of the STL. You can re
 Drill holes to their correct tap size before tapping.
 - M1.6 requires M1.4 bore followed by an M1.6 tap.
 - M1.8 or M2 bore for screw holes that aren't tapped.
+- Bore the hinge holes with an M2 drill bit. Go slowly to keep heat generation down to a minmum. Use water to cool the bit while boring. 
 - The hinges are simply lengths of filament with the ends hot riveted down. I use a lighter to set the filament on fire and a bronze punch to hot rivet the end. Do on both sides to lock the hinge in place.
 - For the lower baffle you will need to file the hot riveted head down so the upper baffle will close properly. 
 
